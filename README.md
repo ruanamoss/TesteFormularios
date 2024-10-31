@@ -9,7 +9,7 @@ O projeto é desenvolvido utilizando:
 ## Configuração do ambiente local
 - Clone o repositório em sua máquina:
 ```bash
-git clone https://github.com/ruanamoss/Cypress_Relatorios.git
+git clone https://github.com/ruanamoss/TesteFormularios.git
 ```
 - Abra o projeto no Visual Studio e execute os seguintes comandos:
 ```
