@@ -22,7 +22,7 @@ npx cypress open
 ```
 - Executar o teste
 ```
-npx cypress run
+npx cypress run 
 ```
 - Abrir o arquivo "index.html" no diretório para verificar o relatório
 ```
